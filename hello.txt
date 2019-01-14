@@ -1,2 +1,1 @@
-﻿
-过一会就hello git!陈公公！
+hello git!陈公公！
